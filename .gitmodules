@@ -1,0 +1,3 @@
+[submodule "rba"]
+	path = ip_if/rba
+	url = ssh://git@sourcecode01.de.bosch.com:7999/pjif/rba.git
