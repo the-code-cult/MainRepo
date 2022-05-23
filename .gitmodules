@@ -1,3 +1,3 @@
 [submodule "gitrepoexperiments"]
-	path = submodule/gitrepoexperiments
+	path = gitrepoexperiments
 	url = https://github.com/the-code-cult/gitrepoexperiments.git
